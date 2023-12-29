@@ -1,1 +1,1 @@
-https://github.com/AnupKrMistry/TableFormation/blob/main/index.html
+[Click here to visit](https://anupkrmistry.github.io/TableFormation "Home Page")
